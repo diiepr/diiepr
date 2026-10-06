@@ -24,7 +24,14 @@ E esse é o meu conhecimento sobre tecnologia e desenvolvimento
 
 ## Quem eu sou?
 
-Eu sou Estudante de ADS e Trabalho com Suporte N1 e N2 na Empresa *Elithium Soluções Inteligentes*.
+Eu sou estudante de Tecnologia da Informação e profissional da área de suporte técnico em telemetria automotiva.
+
+Atualmente estou desenvolvendo meus conhecimentos em programação, suporte, redes e tecnologia, com foco principalmente em C e fundamentos de desenvolvimento de sistemas.
+
+Gosto de aprender na prática, resolver problemas e entender como as tecnologias funcionam por trás dos sistemas.
+
+Estou sempre buscando evoluir meus conhecimentos e transformar o que aprendo em projetos e experiências práticas.
+
 
 ## Conhecimentos
 
