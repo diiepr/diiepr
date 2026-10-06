@@ -1,4 +1,4 @@
-# Hello World! I'm Gabriel 😄🖖
+# Hello World! I'm Diego Pires 😄🖖
 and this is my knowledge and curiosities about development 
 
 <details>
@@ -7,7 +7,7 @@ and this is my knowledge and curiosities about development
   
  ``` js
  const aboutMe = {
-     name: 'Gabriel Henrique Vieira Henrique a par',
+     name: 'Diego Marcilio Pires',
      title: 'Dev & Designer',
      knowledge: ['Web Development', 'UX/UI design', 'Graphic Design'],
      motivation: [
@@ -20,16 +20,6 @@ and this is my knowledge and curiosities about development
   </div>
 </details>
 
-<details>
-  <summary> Main projects links </summary>
-  <div>
-  
- - [CLICK ME TO SEE THE DRAFT PROJECT](https://pouthergust.github.io/pouthergust/)
-
- - [CLICK ME TO SEE THE ALTERNATIVE PROJECT](https://pouthergust.github.io/HelloAlpine/)
- 
-  </div>
-</details>
 
 [![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-henrique-5a562020a/)
 
