@@ -1,22 +1,21 @@
-# Hello World! I'm Diego Pires 😄🖖
-and this is my knowledge and curiosities about development 
+# Olá! Eu sou Diego Pires 😄🖖
+E esse é o meu conhecimento sobre tecnologia e desenvolvimento
 
 <details>
-  <summary> More about me</summary>
+  <summary> Mais Sobre Mim </summary>
   <div>
   
  ``` js
  const aboutMe = {
      name: 'Diego Marcilio Pires',
-     title: 'Dev & Designer',
-     knowledge: ['Python', 'SQL', 'C'],
+     title: 'Dev & Suport',
+     knowledge: ['Python', 'SQL', 'C', 'Telemetria Automotiva'],
      motivation: [
          'Expand my knowledge and perspective',
          'Make my projects more creatives'
      ],
  }
  ```
- 
   </div>
 </details>
 
@@ -25,7 +24,7 @@ and this is my knowledge and curiosities about development
 
 ## WhoAmI?
 
-I am a Graphic Designer who is eager to learn more about programming 
+Eu sou Estudante de ADS e também trabalho com Suporte N1 e N2 na Empresa *Elithium Soluções Inteligentes*.
 
 ## Main Technologies
 
