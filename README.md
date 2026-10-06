@@ -26,11 +26,9 @@ E esse é o meu conhecimento sobre tecnologia e desenvolvimento
 
 Eu sou Estudante de ADS e Trabalho com Suporte N1 e N2 na Empresa *Elithium Soluções Inteligentes*.
 
-## Tecnologias Utilizadas
-
 ## Conhecimentos
 
 
-| [![C](https://skillicons.dev/icons?i=c)](https:// c-basic.readthedocs.io/pt/latest/) 
+| [![C](https://skillicons.dev/icons?i=c)](https://c-basic.readthedocs.io/pt/latest/) 
 [![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/) | 
 [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
