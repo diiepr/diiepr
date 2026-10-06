@@ -24,7 +24,7 @@ E esse é o meu conhecimento sobre tecnologia e desenvolvimento
 
 ## Quem eu sou?
 
-Eu sou Estudante de ADS e também trabalho com Suporte N1 e N2 na Empresa *Elithium Soluções Inteligentes*.
+Eu sou Estudante de ADS e Trabalho com Suporte N1 e N2 na Empresa *Elithium Soluções Inteligentes*.
 
 ## Tecnologias Utilizadas
 
