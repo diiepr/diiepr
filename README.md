@@ -11,8 +11,8 @@ E esse é o meu conhecimento sobre tecnologia e desenvolvimento
      title: 'Dev & Suport',
      knowledge: ['Python', 'SQL', 'C', 'Telemetria Automotiva'],
      motivation: [
-         'Expand my knowledge and perspective',
-         'Make my projects more creatives'
+         'Expandir meu Conhecimento e ',
+         'Desenvolver Projetos para a Sociedade'
      ],
  }
  ```
