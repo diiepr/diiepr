@@ -33,6 +33,8 @@ I am a Graphic Designer who is eager to learn more about programming
 | --------- |----------- | ---- |
 | [![C](https://skillicons.dev/icons?i=c)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | ![Angular, React, Vue](https://skillicons.dev/icons?i=angular,react,vue) | ![Angular, React, Vue](https://skillicons.dev/icons?i=ts,nodejs,deno) ![Vtex](https://img.shields.io/badge/VTEX-F71964?style=for-the-badge&logo=vtex&logoColor=white) |
 [![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/) 
+
+
 IN PROGRESS... 🚧
 
 #NeverStopLearning🚀
