@@ -9,7 +9,7 @@ and this is my knowledge and curiosities about development
  const aboutMe = {
      name: 'Diego Marcilio Pires',
      title: 'Dev & Designer',
-     knowledge: ['Web Development', 'UX/UI design', 'Graphic Design'],
+     knowledge: ['Python', 'SQL', 'C'],
      motivation: [
          'Expand my knowledge and perspective',
          'Make my projects more creatives'
@@ -26,8 +26,6 @@ and this is my knowledge and curiosities about development
 ## WhoAmI?
 
 I am a Graphic Designer who is eager to learn more about programming 
-
-<!-- ![Gabriel's GitHub status](https://github-readme-stats.vercel.app/api?username=pouthergust&theme=omni&show_icons=true&) -->
 
 ## Main Technologies
 
