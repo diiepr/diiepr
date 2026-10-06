@@ -21,7 +21,7 @@ and this is my knowledge and curiosities about development
 </details>
 
 
-[![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diego-pires-a734a7215/)
+[![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diego-pires-a734a7215)
 
 ## WhoAmI?
 
