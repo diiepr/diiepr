@@ -28,7 +28,6 @@ Eu sou Estudante de ADS e Trabalho com Suporte N1 e N2 na Empresa *Elithium Solu
 
 ## Conhecimentos
 
-
-| [![C](https://skillicons.dev/icons?i=c)](https://c-basic.readthedocs.io/pt/latest/) 
-[![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/) | 
+[![C](https://skillicons.dev/icons?i=c)](https://c-basic.readthedocs.io/pt/latest/) 
+[![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/) 
 [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
