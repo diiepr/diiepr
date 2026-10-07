@@ -1,5 +1,4 @@
 # Olá! Eu sou Diego Pires 😄🖖
-E esse é o meu conhecimento sobre tecnologia e desenvolvimento
 
 <details>
   <summary> Mais Sobre Mim </summary>
