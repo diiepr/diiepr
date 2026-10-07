@@ -19,7 +19,13 @@
 </details>
 
 
-[![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diego-p-a734a7215/)
+## Contatos
+
+[![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diego-p-a734a7215/) |
+[![Instagram profile](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/diiepr/)
+
+
+
 
 ## Quem eu sou?
 
