@@ -1,5 +1,4 @@
 # Olá! Eu sou Diego Pires 😄🖖
-E esse é o meu conhecimento sobre tecnologia e desenvolvimento
 
 <details>
   <summary> Mais Sobre Mim </summary>
@@ -11,7 +10,7 @@ E esse é o meu conhecimento sobre tecnologia e desenvolvimento
      title: 'Dev & Suport',
      knowledge: ['Python', 'SQL', 'C', 'Telemetria Automotiva'],
      motivation: [
-         'Expandir meu Conhecimento e ',
+         'Expandir meu Conhecimento e',
          'Desenvolver Projetos para a Sociedade'
      ],
  }
@@ -20,16 +19,29 @@ E esse é o meu conhecimento sobre tecnologia e desenvolvimento
 </details>
 
 
-[![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diego-p-a734a7215/)
+## Contatos
+
+[![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diego-p-a734a7215/) 
+[![Instagram profile](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/diiepr/)
+
+
+
 
 ## Quem eu sou?
 
-Eu sou Estudante de ADS e Trabalho com Suporte N1 e N2 na Empresa *Elithium Soluções Inteligentes*.
+Eu sou estudante de Tecnologia da Informação e profissional da área de suporte técnico em telemetria automotiva.
 
-## Tecnologias Utilizadas
+Atualmente estou desenvolvendo meus conhecimentos em programação, suporte, redes e tecnologia, com foco principalmente em C e fundamentos de desenvolvimento de sistemas.
 
-| Linguagens | Frameworks | Mais |
-| --------- |----------- | ---- |
-| [![C](https://skillicons.dev/icons?i=c)](https://c-basic.readthedocs.io/pt/latest/) | ![Angular, React, Vue](https://skillicons.dev/icons?i=angular,react,vue) | ![Angular, React, Vue](https://skillicons.dev/icons?i=ts,nodejs,deno) ![Vtex](https://img.shields.io/badge/VTEX-F71964?style=for-the-badge&logo=vtex&logoColor=white) |
-[![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/) | 
+Gosto de aprender na prática, resolver problemas e entender como as tecnologias funcionam por trás dos sistemas.
+
+Estou sempre buscando evoluir meus conhecimentos e transformar o que aprendo em projetos e experiências práticas.
+
+
+## Ferramentas Utilizadas
+
+[![C](https://skillicons.dev/icons?i=c)](https://c-basic.readthedocs.io/pt/latest/) 
+[![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/) 
 [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
+[![Vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/Docs/)
+
