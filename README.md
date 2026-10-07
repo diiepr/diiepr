@@ -43,5 +43,7 @@ Estou sempre buscando evoluir meus conhecimentos e transformar o que aprendo em 
 [![C](https://skillicons.dev/icons?i=c)](https://c-basic.readthedocs.io/pt/latest/) 
 [![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/) 
 [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
+[![Html](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
 [![Vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/Docs/)
 
